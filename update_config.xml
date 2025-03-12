@@ -8,7 +8,7 @@
       <pubDate>Wed, 12 Mar 2025 10:00:00 GMT</pubDate>
       <enclosure url="https://yourserver.com/downloads/myapp_v2.0.0.apk" length="12345678" type="application/vnd.android.package-archive"/>
       <version>7.0.0</version>
-      <minimum_os_version>5.0</minimum_os_version>
+      <minimum_os_version>7.0</minimum_os_version>
     </item>
     <!-- Add more items for other versions as needed -->
   </channel>
