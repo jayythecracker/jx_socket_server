@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MyApp Updates</title>
+    <item>
+      <title>Version 7.0.0</title>
+      <description>Major improvements and bug fixes.</description>
+      <pubDate>Wed, 12 Mar 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://yourserver.com/downloads/myapp_v2.0.0.apk" length="12345678" type="application/vnd.android.package-archive"/>
+      <version>7.0.0</version>
+      <minimum_os_version>5.0</minimum_os_version>
+    </item>
+    <!-- Add more items for other versions as needed -->
+  </channel>
+</rss>
