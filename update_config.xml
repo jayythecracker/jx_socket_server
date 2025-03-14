@@ -8,7 +8,7 @@
       <title>Version 3.0</title>
       <description>Just update testing</description>
       <pubDate>Sat, 14 Mar 2025 12:00:00 +0000</pubDate>
-      <enclosure url="https://www.dropbox.com/scl/fi/rd3n7hcn1t4us75kar83p/app-release.apk?rlkey=dsfix61taqc7dt1687dvbd2sj&st=ddhsa12k&dl=1" sparkle:version="3.0"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/rd3n7hcn1t4us75kar83p/app-release.apk?rlkey=dsfix61taqc7dt1687dvbd2sj&st=ddhsa12k&dl=1" sparkle:version="3.0"sparkle:os="android" />
       <sparkle:tags> 
         <sparkle:criticalUpdate /> 
       </sparkle:tags> 
