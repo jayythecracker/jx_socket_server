@@ -2,22 +2,25 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>For unit test only</title>
+
+    <!-- Latest version (FORCED UPDATE) -->
     <item>
-        <title>Version 1.0</title>
-        <description>desc Версия</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0" />
-        <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+      <title>Version 3.0</title>
+      <description>Just update testing</description>
+      <pubDate>Sat, 14 Mar 2025 12:00:00 +0000</pubDate>
+      <enclosure url="https://www.dropbox.com/scl/fi/rd3n7hcn1t4us75kar83p/app-release.apk?rlkey=dsfix61taqc7dt1687dvbd2sj&st=ddhsa12k&dl=1" sparkle:version="3.0"/>
+      <sparkle:tags> 
+        <sparkle:criticalUpdate /> 
+      </sparkle:tags> 
     </item>
 
-  <item>
-      <title> Version 3.0</title>
-      <description> Just update testing</description>
-    <enclosure url="https://www.dropbox.com/scl/fi/rd3n7hcn1t4us75kar83p/app-release.apk?rlkey=dsfix61taqc7dt1687dvbd2sj&st=ddhsa12k&dl=1" sparkle:version="3.0"/> 
-   <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
-  </item>
+    <!-- Older version (1.0) -->
+    <item>
+      <title>Version 1.0</title>
+      <description>desc Версия</description>
+      <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+      <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0" />
+    </item>
 
-  
-   
   </channel>
 </rss>
