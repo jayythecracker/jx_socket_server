@@ -4,7 +4,7 @@
     <title>For unit test only</title>
 
     <!-- Latest version (FORCED UPDATE) -->
-    <item>
+<!--     <item>
     <title>Version 3.0</title>
     <description>Minor updates and improvements.</description>
       <pubDate>Sat, 14 Mar 2025 12:00:00 +0000</pubDate>
@@ -13,7 +13,7 @@
         <sparkle:criticalUpdate /> 
       </sparkle:tags> 
     </item>
-
+ -->
     <!-- Older version (1.0) -->
     <item>
       <title>Version 1.0</title>
